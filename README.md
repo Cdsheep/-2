@@ -1,1 +1,1 @@
-# -2
+In this assignment, the PyCharm compiler was used. The data for the first task was obtained within PyCharm, while for the second and third tasks, the UCI Machine Learning Repository website was accessed, and the data was downloaded and saved to the local computer for processing. The obtained data was stored in a file named `breast` for further operations.
